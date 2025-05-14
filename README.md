@@ -1,26 +1,44 @@
-# Herramienta de Automatizacion
+## 📑 Tabla de Contenidos
 
-Esta aplicacion es un desarrollo independiente, desarrollado por mi propia necesidad de automatizar algunas tareas diarias que presento diariamente en mi trabajo actual.
-
-Esta es una herramienta para automatizacion de procesos, sus funciones principales son:
-* Crear tareas automatizadas y ejecutarlas.
-* Extraer informacion de una base de datos de acuerdo a querys personalizados o atraves de las vistas, triggers o funciones de la base de datos, permite formatear la estructura del archivo de salida.
-* Formatear archivos excel, cargando uno o selecionando uno de los temporales.
-* Guardar archivos almacenados temporalmente en ubicacion de eleccion. 
-* Previzualizar datos en archivos excel
-* Conexion a multiples bases de datos, configurando sus datos de conexion.
-
+- [Herramienta de Automatizacion](#herramienta-de-automatizacion)
+  - [⚙️ Funcionalidades principales](#️-funcionalidades-principales)
+  - [📚 Documentación Complementaria](#-documentación-complementaria)
+  - [🧔 Autor](#-autor)
 
 ---
 
-## 📄 Documentación adicional
+# Herramienta de Automatizacion
 
-- 🪵 [CHANGELOG.md](./CHANGELOG.md): Historial de versiones y cambios realizados.
-- 🛠️ [CONTRIBUTING.md](./CONTRIBUTING.md): Guía para colaborar con el proyecto.
-- 🤝 [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md): Normas de convivencia para colaboradores.
-- 📝 [LICENSE](./LICENSE): Términos legales de uso del proyecto.
+Esta aplicación es un desarrollo independiente que surgió de una necesidad real en mi entorno laboral: automatizar tareas repetitivas que consumen tiempo y recursos.
+Su objetivo principal es facilitar la ejecución de procesos diarios a través de una interfaz intuitiva y altamente configurable.
+
+## ⚙️ Funcionalidades principales
+* Automatización de tareas: permite crear, configurar y ejecutar tareas automatizadas de forma sencilla.
+* Extracción de datos: se conecta a bases de datos relacionales utilizando queries personalizados, vistas, funciones o triggers, y permite formatear la estructura del archivo de salida.
+* Compatibilidad con múltiples motores: admite conexión con diversos tipos de bases de datos (PostgreSQL, MySQL, SQLite, etc.), una a la vez.
+* Formateo de archivos Excel: permite importar archivos, aplicar formatos personalizados y exportar resultados en estructuras definidas por el usuario.
+* Gestión de archivos temporales: facilita la selección y el guardado de archivos generados temporalmente en ubicaciones específicas.
+* Previsualización de datos: permite visualizar los datos antes de exportarlos, directamente desde la interfaz.
+* Configuración flexible: interfaz intuitiva para editar parámetros de conexión y formato sin modificar el código fuente.
+
+---
+
+## 📚 Documentación Complementaria
+
+A continuación, se listan los documentos clave que acompañan este proyecto:
+
+| Archivo                                  | Descripción                                                                                           |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [`CHANGELOG.md`](./CHANGELOG.md)           | Registro detallado de versiones, mejoras, correcciones y nuevas funcionalidades.                     |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md)     | Guía práctica para contribuir al desarrollo del proyecto: buenas prácticas, convenciones y flujo de trabajo. |
+| [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) | Código de conducta que establece las normas básicas de respeto y colaboración dentro de la comunidad. |
+| [`LICENSE`](./LICENSE)                     | Información legal sobre el uso, distribución y modificación del software.                            |
+
+> 💡 Se recomienda revisar estos documentos antes de contribuir o distribuir el proyecto.
 
 
 ## 🧔 Autor
 
 Jose David Gomez — [https://github.com/JoseDavidN]
+
+[def]: #-autor

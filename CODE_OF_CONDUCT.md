@@ -1,10 +1,7 @@
 
 ---
 
-## 🤝 `CODE_OF_CONDUCT.md`
-
-```markdown
-# Código de Conducta
+# 🤝 Código de Conducta
 
 Este proyecto se rige por un código de conducta para asegurar un entorno respetuoso e inclusivo para todos los participantes.
 
