@@ -1,0 +1,11 @@
+# Tipo de commit:
+# feat:       Nueva funcionalidad
+# fix:        Corrección de errores
+# refactor:   Refactorización del código
+# docs:       Actualización de la documentación
+# style:      Cambios en formato (sin afectar la lógica)
+# test:       Cambios relacionados a pruebas
+# chore:      Tareas de mantenimiento o configuración
+
+# Ejemplo de mensaje:
+# feat(login): agrega validación de correo electrónico

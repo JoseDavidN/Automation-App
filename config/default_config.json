@@ -1,0 +1,35 @@
+{
+    "database": {
+        "enabled": false,
+        "driver": "mysql",
+        "host": "localhost",
+        "port": "3306",
+        "user": "",
+        "password": "",
+        "database": "",
+        "connections": []
+    },
+    "email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "sender_email": "",
+        "use_ssl": false,
+        "use_tls": true,
+        "email_templates": []
+    },
+    "excel": {
+        "default_format": {
+            "header_color": "4F81BD",
+            "create_tables": true,
+            "table_style": "TableStyleMedium9"
+        },
+        "recent_files": []
+    },
+    "app": {
+        "theme": "Dark",
+        "color_theme": "dark-blue",
+        "temp_dir": "temp",
+        "auto_cleanup": true,
+        "recent_projects": []
+    }
+}
